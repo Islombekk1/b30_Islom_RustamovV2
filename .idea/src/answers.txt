@@ -1,0 +1,11 @@
+                      Task1
+1) ArrayList bu java tilidagi boshqariladigan umumiy ro'yhat turi. ArrayList odatda ma'lumotlarni saqlash, qo'shish, o'chirish va o'zgartirish uchun ishlatiladi. ArrayList o'lchami o'zgaruvchan bo'lib, o'z ichida turgan holda ma'lumotlarni qo'shish va o'chirish ishlarini bajaradi.
+   LinkedList bu o'z ichida o'zgaruvchilarni saqlab, qo'shish va o'chirish imkoniyatini amalga oshiradi. LinkedListning maqsadi ma'lumotlarni tartiblab, qo'shish va o'chirish ishlarini soddalashtirishdir. LinkedListdagi har bir element o'zidan oldingi va o'zidan keyingi elementga bog'liq.
+
+2) LinkedHashMap ma'lumotlarni array va node orqali saqlaydi. Yani Arrayni tipi Node bo'ladi va Nodening ichida esa key Value hamda Next bo'ladi. Key Valueni hashkod orqali saqlaydi Yani key hashkodini mapning uzunligiga bo'lsa indeks kelib chiqadi va o'sha indeksga key ni valuesini saqlaydi.
+
+3) Genericdan foydalanishimizni bir nechta foydasi bor. Ular Type Safety, Duplicated kodni o'zgartirish, Performance, Code Reusability va API ni saqlash.
+
+4) iterable => collection => list => arraylist, linkedlist, vektor => stack.
+   iterable => collection => queue => priority queue, deque, Array Deque, blocking queue.
+   iterable => collection => set => hashset, linkedhashset, sorted set, navigable set, tree set.
